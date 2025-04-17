@@ -1,4 +1,13 @@
-# Forage-TATA-Data-Visualization
+# Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage - April 2025
+
+ * Completed a simulation involving creating data visualizations for Tata
+   Consultancy Services
+ * Prepared questions for a meeting with client senior leadership
+ * Created visuals for data analysis to help executives with effective decision
+   making
+    
+# Task 1: Framing the Business Scenario
+# Task 2: Choosing the Right Visuals
 # Task 3: Creating Effective Visuals
 The CEO and CMO have recently met to finalise the requirements and would like you to provide them with some analysis and visuals that would help answer their questions. Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. You would need to provide insights which they can use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
 
